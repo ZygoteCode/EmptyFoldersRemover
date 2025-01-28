@@ -1,0 +1,8 @@
+C:\Users\bolog\Desktop\EmptyFoldersRemover\bin\x64\Release\EmptyFoldersRemover.exe.config
+C:\Users\bolog\Desktop\EmptyFoldersRemover\bin\x64\Release\EmptyFoldersRemover.exe
+C:\Users\bolog\Desktop\EmptyFoldersRemover\obj\x64\Release\EmptyFoldersRemover.csproj.AssemblyReference.cache
+C:\Users\bolog\Desktop\EmptyFoldersRemover\obj\x64\Release\EmptyFoldersRemover.csproj.CoreCompileInputs.cache
+C:\Users\bolog\Desktop\EmptyFoldersRemover\obj\x64\Release\EmptyFoldersRemover.exe
+C:\Users\bolog\Desktop\EmptyFoldersRemover\bin\x64\Release\NtfsReader.dll
+C:\Users\bolog\Desktop\EmptyFoldersRemover\obj\x64\Release\EmptyFol.92AA76F6.Up2Date
+C:\Users\bolog\Desktop\EmptyFoldersRemover\bin\x64\Release\FileUnlockingSharp.dll
